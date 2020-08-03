@@ -4,7 +4,7 @@
 
 ; token for the bot
 ; DO NOT MAKE THIS PUBLIC!!!
-token = NzM5Njg2MzEwMTI5OTU4OTI0.XyeEjw.hjDIJzBcd6ZIwZxScfftefxMQjQ
+token = NzM5Njg2MzEwMTI5OTU4OTI0.XyeEjw.N6_LuYiKkicT-kVDfWDkwv75CgA
 
 ; get this ID by enabling "Developer Mode"
 channel_id = 733340571619426364
@@ -14,7 +14,7 @@ command_prefix = ?
 ; if staff should be hidden users in replies; 'true' hides, 'false' or anything else reveales
 anonymous_staff = true
 
-playing = Send DM to contact staff!
+playing = DM FOR ASSITANCE!
 
 [AntiSpam]
 
