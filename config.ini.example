@@ -4,10 +4,10 @@
 
 ; token for the bot
 ; DO NOT MAKE THIS PUBLIC!!!
-token = token value
+token = NzM5Njg2MzEwMTI5OTU4OTI0.XyeEjw.hjDIJzBcd6ZIwZxScfftefxMQjQ
 
 ; get this ID by enabling "Developer Mode"
-channel_id = channel id
+channel_id = 733340571619426364
 
 command_prefix = ?
 
